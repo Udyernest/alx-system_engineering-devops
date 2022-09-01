@@ -1,0 +1,3 @@
+'shell-permission' > README.md
+#!/bin/bash
+su betty
