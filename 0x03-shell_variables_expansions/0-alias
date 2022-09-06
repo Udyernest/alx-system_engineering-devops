@@ -1,3 +1,2 @@
 !#bin/bash
-echo "create script that creat alias"
-
+ls rm *
